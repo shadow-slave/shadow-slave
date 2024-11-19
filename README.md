@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Web Development Course -Udemy**
 
-- 👨‍💻 All of my projects are available at [https://mysite-seven-nu.vercel.app/](https://mysite-seven-nu.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://aswin-ts.pages.dev/](https://aswin-ts.pages.dev/)
 
 - 💬 Ask me about **Python ,Django,HTML**
 
 - 📫 How to reach me **ashwinsunil02@gmail.com**
 
-- 📄 Know about my experiences [https://aswints.onrender.com/](https://aswints.onrender.com/)
+- 📄 Know about my experiences [https://aswints.pages.dev/](https://aswints.pages.dev/)
 
 - ⚡ Fun fact **Thanos was right**
 
